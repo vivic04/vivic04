@@ -2,7 +2,7 @@
 I am 1st Year studying Computer Science at U of T. I have had plenty of experiences at companies like: R-systems, Mindsprint and TCS. 
 
 
-🌱 I’m currently learning PHP and LARAVEL
+🌱 I’m currently learning PHP and LARAVEL 
 🎯 My skills are : Python, HTML, CSS, JS, React, R and PHP
 📫 How to reach me: vihaanchugh2811@gmail.com
 
