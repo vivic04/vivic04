@@ -6,9 +6,7 @@ I am 1st Year studying Computer Science at U of T. I have had plenty of experien
 🎯 My skills are : Python, HTML, CSS, JS, React, R and PHP
 📫 How to reach me: vihaanchugh2811@gmail.com
 
-:fire: My Stats : 
-
-
+[![Vihaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivic04)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 
