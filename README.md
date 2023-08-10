@@ -1,6 +1,19 @@
 ### Hi there 👋
+I am 1st Year studying Computer Science at U of T. I have had plenty of experiences at companies like: R-systems, Mindsprint and TCS. 
+
+
+🌱 I’m currently learning PHP and LARAVEL
+🎯 My skills are : Python, HTML, CSS, JS, React, R and PHP
+📫 How to reach me: vihaanchugh2811@gmail.com
+
+:fire: My Stats : 
+
 
 <!--
+
+
+
+
 **vivic04/vivic04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
