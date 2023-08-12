@@ -14,7 +14,6 @@ I am 1st Year studying Computer Science at U of T. I have had plenty of experien
 
 
 
-
 **vivic04/vivic04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
