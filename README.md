@@ -1,8 +1,10 @@
 ### Hi there 👋
-I am 1st Year studying Computer Science at U of T. I have had plenty of experiences at companies like: R-systems, Mindsprint and TCS. 
+I am 2nd Year studying Computer Science at U of T. I have had plenty of experiences at companies like: **R-systems, Mindsprint and TCS**. 
 
 
-🌱 I’m currently learning PHP and LARAVEL 
+🌱 I’m currently learning PHP and LARAVEL
+
+🔭 I’m currently working on Creating a ReactApp For Employers to keep check on Employee tasks
 
 🎯 My skills are : Python, HTML, CSS, JS, React, R and PHP
 
