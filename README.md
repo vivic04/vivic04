@@ -6,7 +6,7 @@ I am 2nd Year studying Computer Science at U of T. I have had plenty of experien
 
 🔭 I’m currently working on Creating a ReactApp For Employers to keep check on Employee tasks
 
-🎯 My skills are : Python, HTML, CSS, JS, React, R and PHP
+🎯 My best skills include : Python, HTML, CSS, JS, React, R and PHP
 
 📫 How to reach me: vihaanchugh2811@gmail.com
 
